@@ -104,7 +104,7 @@ Ejecutamos el script para crear las tablas charges y companies: `python disperse
 
 ## Paso 6: SQL 1.5
 
-Diseñamos una vista en la base de datos Postgres para uqe podamos ver elmonto total transaccionado por día para las diferentes compañías.
+Diseñamos una vista en la base de datos Postgres para que podamos ver el monto total transaccionado por día para las diferentes compañías.
 
 Ejecutamos el script: `python create_view.py`
 
