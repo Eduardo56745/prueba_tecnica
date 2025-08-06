@@ -1,5 +1,4 @@
-# Data Pipeline Test - Prueba Técnica Data Engineer
-
+# Data Pipeline | ETL
 ## Descripción
 
 Este proyecto implementa un pipeline de datos básico para cargar, extraer y transformar un dataset de compras, utilizando PostgreSQL como base de datos principal. Además, incluye una aplicación desarrollada en Scala que contiene los primeros 100 números; al ingresar un número, la aplicación identifica cuál fue el número extraído.
